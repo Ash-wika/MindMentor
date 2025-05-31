@@ -101,8 +101,8 @@ mentora is an intelligent study companion that leverages AI to transform the lea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sahilahmed21/Mentoraa
-cd mentora
+git clone https://github.com/Ash-wika/MindMentor
+cd MindMentor
 ```
 
 2. Install dependencies for both frontend and backend:
